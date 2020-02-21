@@ -1,0 +1,14 @@
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+
+*.seed
+
+node_modules
+dist
+
+.env
+.cache
+
+.vscode/
